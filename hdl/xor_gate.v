@@ -1,4 +1,4 @@
-module xor_gate(input wire a,
+module xor_test(input wire a,
 	input wire b,
 	output wire y
 );
